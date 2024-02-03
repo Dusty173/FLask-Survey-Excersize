@@ -1,0 +1,1 @@
+This is an excersize to make a survey that operates with a database
